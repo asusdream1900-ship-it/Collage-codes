@@ -1,3 +1,3 @@
 # Collage-codes
-Coding Club
-Aurhor-Aankit kumar
+Coding Club.
+Author - Aankit kumar
