@@ -1,5 +1,5 @@
 # Collage-codes
-Coding Club
+My First Website for Learning
 <br>
-Author - 00000000000000
+Author - Ankit Kumar 
     
